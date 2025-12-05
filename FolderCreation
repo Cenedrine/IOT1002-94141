@@ -1,0 +1,204 @@
+Script started on 2025-11-28 10:00:01-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="128" LINES="27"]
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ /EmployeeData
+[?2004lbash: /EmployeeData: No such file or directory
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe[K mkdri[K[Kir \[K/employeeData[1PmployeeDataEmployeeData[C[C[C[C[C[C[C[C[C[C
+[?2004l[sudo] password for alex: 
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls l[K-l /
+[?2004ltotal 4194400
+lrwxrwxrwx   1 root root          7 Apr 22  2024 [0m[01;36mbin[0m -> [01;34musr/bin[0m
+drwxr-xr-x   2 root root       4096 Feb 26  2024 [01;34mbin.usr-is-merged[0m
+drwxr-xr-x   3 root root       4096 Oct 31 12:01 [01;34mboot[0m
+dr-xr-xr-x   2 root root       4096 Aug  5 14:17 [01;34mcdrom[0m
+drwxr-xr-x  19 root root       4240 Nov 28 09:44 [01;34mdev[0m
+drwxr-xr-x   2 root root       4096 Nov 28 10:02 [01;34mEmployeeData[0m
+drwxr-xr-x 141 root root      12288 Oct 31 12:01 [01;34metc[0m
+drwxr-xr-x  24 root root       4096 Oct 11 02:17 [01;34mhome[0m
+lrwxrwxrwx   1 root root          7 Apr 22  2024 [01;36mlib[0m -> [01;34musr/lib[0m
+lrwxrwxrwx   1 root root          9 Apr 22  2024 [01;36mlib64[0m -> [01;34musr/lib64[0m
+drwxr-xr-x   2 root root       4096 Apr  8  2024 [01;34mlib.usr-is-merged[0m
+drwx------   2 root root      16384 Sep 26 13:06 [01;34mlost+found[0m
+drwxr-xr-x   4 root root       4096 Oct 11 00:36 [01;34mmedia[0m
+drwxr-xr-x   2 root root       4096 Aug  5 12:48 [01;34mmnt[0m
+drwxr-xr-x   4 root root       4096 Oct 11 00:34 [01;34mopt[0m
+dr-xr-xr-x 251 root root          0 Nov 28 09:44 [01;34mproc[0m
+drwx------   6 root root       4096 Nov 12 17:45 [01;34mroot[0m
+drwxr-xr-x  35 root root        940 Nov 28 09:55 [01;34mrun[0m
+lrwxrwxrwx   1 root root          8 Apr 22  2024 [01;36msbin[0m -> [01;34musr/sbin[0m
+drwxr-xr-x   2 root root       4096 Mar 31  2024 [01;34msbin.usr-is-merged[0m
+drwxr-xr-x  12 root root       4096 Aug  5 12:54 [01;34msnap[0m
+drwxr-xr-x   2 root root       4096 Aug  5 12:48 [01;34msrv[0m
+-rw-------   1 root root 4294967296 Sep 26 13:17 swap.img
+dr-xr-xr-x  13 root root          0 Nov 28 09:44 [01;34msys[0m
+drwxrwxrwt  16 root root       4096 Nov 28 09:59 [30;42mtmp[0m
+drwxr-xr-x  12 root root       4096 Aug  5 12:48 [01;34musr[0m
+drwxr-xr-x  14 root root       4096 Sep 26 13:44 [01;34mvar[0m
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cd /EmployeeDate[Ka
+[?2004l[?2004h]0;alex@alex-VirtualBox: /EmployeeData[01;32malex@alex-VirtualBox[00m:[01;34m/EmployeeData[00m$ sudo mkri[K[Kdir hr[K[KHR IT Finance exe[K[K[KExecutive Administrative CallCenter
+[?2004l[?2004h]0;alex@alex-VirtualBox: /EmployeeData[01;32malex@alex-VirtualBox[00m:[01;34m/EmployeeData[00m$ ls -l
+[?2004ltotal 24
+drwxr-xr-x 2 root root 4096 Nov 28 10:06 [0m[01;34mAdministrative[0m
+drwxr-xr-x 2 root root 4096 Nov 28 10:06 [01;34mCallCenter[0m
+drwxr-xr-x 2 root root 4096 Nov 28 10:06 [01;34mExecutive[0m
+drwxr-xr-x 2 root root 4096 Nov 28 10:06 [01;34mFinance[0m
+drwxr-xr-x 2 root root 4096 Nov 28 10:06 [01;34mHR[0m
+drwxr-xr-x 2 root root 4096 Nov 28 10:06 [01;34mIT[0m
+[?2004h]0;alex@alex-VirtualBox: /EmployeeData[01;32malex@alex-VirtualBox[00m:[01;34m/EmployeeData[00m$ sudo ch[K[K[K[K[K[K[Kcd `
+[?2004l[?2004h> 
+[?2004l[?2004h> cd~
+[?2004l[?2004h> exit
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: /EmployeeData[01;32malex@alex-VirtualBox[00m:[01;34m/EmployeeData[00m$ cd~
+[?2004lCommand 'cd~' not found, did you mean:
+  command 'cdb' from deb tinycdb (0.81-1)
+  command 'cdi' from deb cdo (2.3.0-1)
+  command 'cdw' from deb cdw (0.8.1-3)
+  command 'cde' from deb cde (0.1+git9-g551e54d-1.2)
+  command 'cdo' from deb cdo (2.3.0-1)
+  command 'cd5' from deb cd5 (0.1-4)
+  command 'cdp' from deb irpas (0.10-9)
+Try: sudo apt install <deb name>
+[?2004h]0;alex@alex-VirtualBox: /EmployeeData[01;32malex@alex-VirtualBox[00m:[01;34m/EmployeeData[00m$ cd ~
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chon[Kwn ;[K"[K:hr /employe[K[K[K[K[K[K[KEmployeData/hr[K[KHR
+[?2004lchown: invalid group: ‘:hr’
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe [K[K chpwn ;[K:HER[K[Kr[KR /EmployeeData/Hr[KR
+[?2004lsudo: chpwn: command not found
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown :HR /EmployeeData/HR
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe chown[K[K[K[K[K[K[K chown :IT /empl[K[K[K[KEmployeeD[C[1P /EmployeeD[1P /EmployeeDi /EmployeeDt /EmployeeD[C[C[C[C[C[C[C[C[C[C[Cata/IT
+[?2004lchown: invalid group: ‘:it’
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe [K[K[Ko chown :IT /EmployeeData/IT
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown :Fina[Kance /EmployeeData/Finance
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe[K chown :Executives[K /empl[K[K[K[KEployeeData/Executive
+[?2004lchown: cannot access '/EployeeData/Executive': No such file or directory
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown :Executive /EmployeeData/Executive
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ suo[Kdo chown :Administrative[7mAdministrative[27mAdministrative[C[C[C[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1PAdministrative[1Pdministrative[C[C[C[C[C[C[C[C[C[C[C[C[C[C /Emplou[KyeeData/[7mAdministrative[27mAdministrative
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown :CallCenter /EmployeeData/CallCenter
+[?2004lchown: invalid group: ‘:CallCenter’
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe[K chown ;[K:CallCenter /em[K[KEmployeeData/CallCenter
+[?2004lchown: invalid group: ‘:CallCenter’
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown : [K[7mCallCenter[27mCallCenter /EmployeeData/[7mCallCenter[27mCallCenter
+[?2004lchown: invalid group: ‘:CallCenter’
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ call [K[K[K[K[Kgetent group CallCenter
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo groupadd CallCenter
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ getent group CallCenter
+[?2004lCallCenter:x:1007:
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown :cal[K[K[KCallCenter[1PCallCenter:CallCenter[C[C[C[C[C[C[C[C[C[C/[K /EmployeeData
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -ld /e,pl[K[K[K[KEmployeeData
+[?2004ldrwxr-xr-x 8 root CallCenter 4096 Nov 28 10:06 [0m[01;34m/EmployeeData[0m
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo mkdir -p /EmployeeData
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -l /EmployeeData
+[?2004ltotal 24
+drwxr-xr-x 2 root Administrative 4096 Nov 28 10:06 [0m[01;34mAdministrative[0m
+drwxr-xr-x 2 root root           4096 Nov 28 10:06 [01;34mCallCenter[0m
+drwxr-xr-x 2 root Executive      4096 Nov 28 10:06 [01;34mExecutive[0m
+drwxr-xr-x 2 root Finance        4096 Nov 28 10:06 [01;34mFinance[0m
+drwxr-xr-x 2 root HR             4096 Nov 28 10:06 [01;34mHR[0m
+drwxr-xr-x 2 root IT             4096 Nov 28 10:06 [01;34mIT[0m
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ Sudo chown : [KCallCenter /Empl[K[KployeeData/CallCenter
+[?2004lCommand 'Sudo' not found, did you mean:
+  command 'ludo' from snap ludo (0.17.1)
+  command 'sudo' from deb sudo (1.9.15p5-3ubuntu5.24.04.1)
+  command 'sudo' from deb sudo-ldap (1.9.15p5-3ubuntu5.24.04.1)
+  command 'udo' from deb udo (6.4.1-7)
+See 'snap info <snapname>' for additional versions.
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mSudo chown :CallCenter /EmployeeData/CallCenter[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CSudo chown :CallCenter /EmployeeData/CallCenter[1P[1@s
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -l /EmployeeData
+[?2004ltotal 24
+drwxr-xr-x 2 root Administrative 4096 Nov 28 10:06 [0m[01;34mAdministrative[0m
+drwxr-xr-x 2 root CallCenter     4096 Nov 28 10:06 [01;34mCallCenter[0m
+drwxr-xr-x 2 root Executive      4096 Nov 28 10:06 [01;34mExecutive[0m
+drwxr-xr-x 2 root Finance        4096 Nov 28 10:06 [01;34mFinance[0m
+drwxr-xr-x 2 root HR             4096 Nov 28 10:06 [01;34mHR[0m
+drwxr-xr-x 2 root IT             4096 Nov 28 10:06 [01;34mIT[0m
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown 770 /Emplou[KyeeData/hr[K[KHR
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown 770 /EmployeeData/Executives[K
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe chown[K[K[K[K[K[K[K[K[K[K[Ksudo chown 764 /EmployeeData/IT
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown 764 /EmployeeData/Finance
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown 764 /EmployeeData/Administrative
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chown 764 /EmployeeData/CallCenter
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -l /EmployeeData
+[?2004ltotal 24
+drwxr-xr-x 2 764 Administrative 4096 Nov 28 10:06 [0m[01;34mAdministrative[0m
+drwxr-xr-x 2 764 CallCenter     4096 Nov 28 10:06 [01;34mCallCenter[0m
+drwxr-xr-x 2 770 Executive      4096 Nov 28 10:06 [01;34mExecutive[0m
+drwxr-xr-x 2 764 Finance        4096 Nov 28 10:06 [01;34mFinance[0m
+drwxr-xr-x 2 770 HR             4096 Nov 28 10:06 [01;34mHR[0m
+drwxr-xr-x 2 764 IT             4096 Nov 28 10:06 [01;34mIT[0m
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ stat -c "%a %n" EmployeeData/*
+[?2004lstat: cannot statx 'EmployeeData/*': No such file or directory
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mstat -c "%a %n" EmployeeData/*[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstat -c "%a %n" EmployeeData/*[C[C/EmployeeData/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l755 /EmployeeData/Administrative
+755 /EmployeeData/CallCenter
+755 /EmployeeData/Executive
+755 /EmployeeData/Finance
+755 /EmployeeData/HR
+755 /EmployeeData/IT
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chmod 770 /em[K[KEmployeeData/G[KHR
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe chmod[K[K[K[K[K[K[K chmod 770 /EmployeeData/Executive
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudoe chmod[K[K[K[K[K[K[K chmod 764 /EmployeeData/IT
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sufo chmod 764 /EmployeeData/Finance
+[?2004lCommand 'sufo' not found, did you mean:
+  command 'sumo' from deb sumo (1.18.0+dfsg-3build2)
+  command 'sudo' from deb sudo (1.9.15p5-3ubuntu5.24.04.1)
+  command 'sudo' from deb sudo-ldap (1.9.15p5-3ubuntu5.24.04.1)
+Try: sudo apt install <deb name>
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chmod 764 /EmployeeData/Finance
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chmod 764 /EmployeeData/Administrative
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ sudo chmod 764 /EmployeeData/CallCenter
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mstat -c "%a %n" /EmployeeData/*[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstat -c "%a %n" /EmployeeData/*
+[?2004l764 /EmployeeData/Administrative
+764 /EmployeeData/CallCenter
+770 /EmployeeData/Executive
+764 /EmployeeData/Finance
+770 /EmployeeData/HR
+764 /EmployeeData/IT
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -l /EmployeeData
+[?2004ltotal 24
+drwxrw-r-- 2 764 Administrative 4096 Nov 28 10:06 [0m[01;34mAdministrative[0m
+drwxrw-r-- 2 764 CallCenter     4096 Nov 28 10:06 [01;34mCallCenter[0m
+drwxrwx--- 2 770 Executive      4096 Nov 28 10:06 [01;34mExecutive[0m
+drwxrw-r-- 2 764 Finance        4096 Nov 28 10:06 [01;34mFinance[0m
+drwxrwx--- 2 770 HR             4096 Nov 28 10:06 [01;34mHR[0m
+drwxrw-r-- 2 764 IT             4096 Nov 28 10:06 [01;34mIT[0m
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -l /EmployeeData[Kecho "number of folders created in /EmployeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1-[K -type d|[K |  ec[K[Kwc -1)
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Number of folders created in[1@s[1P[C[1@s[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /EmplyeeData;[K: $(find /EmployeeData -minddepth 1[1P[C[C[C[C[C[C -maxdepth 1 -type d | wc -1)'[K"
+[?2004lwc: invalid option -- '1'
+Try 'wc --help' for more information.
+Numbers of folders created in /EmplyeeData: 
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d |[27m[7mw[27m[7mc -1)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d |wc -1)[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C |[1@w[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C|w[1P[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[1@ 
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mcho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | [27m[7mw[27m[7mc -1) [27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -1)
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d |[27m[7m [27m[7mwc -1)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -1)
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d |[27m[7m [27m[7mwc -1)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -1)[1P
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d |[27m[7m [27m[7mwc -1)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -1)[1P[C[C[C[C[C[C[1@ [C[C[C[C[C[C[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | w[1P
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | [1@w
+[K[A[C[C[C[C[C[C[C[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | w[1P
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | [1@w
+[K[A[C[C[C[C[C[C[Cwc -1)"[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[Cnumber of folders created in /Emplo
+ wc -1)[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ ls -l /EmployeeData[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstat -c "%a %n" /EmployeeData/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pls -l /EmployeeDataecho "number of folders created in /EmployeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -1)[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[CNumbers of folders created in /Empl
+wc -1)" wc -1)[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | w[1P
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | [1@w
+[K[A[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[1@ [C[C[C[C[C[C
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d |[27m[7m [27m[7mwc -1)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Numbers of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -1)[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | w[1P[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[1P)l)
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Number of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | [27m[7mw[27m[7mc -l)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Number of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -l)[1P)1)
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ [7mecho "Number of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | [27m[7mw[27m[7mc -l)[27m[A]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Number of folders created in /EmplyeeData: $(find /EmployeeData -mindepth 1 -maxdepth 1 -type d | wc -l)[1P)[1P)[1P)[1P)[1P)[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C) [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[C[KNUM [K=$(find /EmployeeData -minddepth [K[K[K[K[K[Kepth 1 maxdepth[C-maxdepth[C[C[C[C[C[C[C h[1Ph[C 1 -type d | ec[K[Kwc -1[Kl)
+[?2004l[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Number of folders created in /EmployeeData: $=NUM'[K"
+[?2004lNumber of folders created in /EmployeeData: $=NUM
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ echo "Number of folders created in/[K ?[K/EmployeeData;[K: $NUM"
+[?2004lNumber of folders created in /EmployeeData: 6
+[?2004h]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-11-28 11:27:32-05:00 [COMMAND_EXIT_CODE="0"]

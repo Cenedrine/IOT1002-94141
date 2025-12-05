@@ -1,0 +1,73 @@
+\doxysection{Task3.\+c File Reference}
+\hypertarget{Task3_8c}{}\label{Task3_8c}\index{Task3.c@{Task3.c}}
+
+
+Demonstrates simpler functionsfor the assignment.  
+
+
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+Include dependency graph for Task3.\+c\+:
+% FIG 0
+\doxysubsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+float \mbox{\hyperlink{Task3_8c_a632d7e4cc3b6202492dad287c1acac95}{Print\+Message}} (char Message\mbox{[}10\mbox{]})
+\begin{DoxyCompactList}\small\item\em Prints a string message. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{Task3_8c_a1c11ffa92d308b3a001b9968c5b80a4e}{Add\+Numbers}} (int num1, int num2)
+\begin{DoxyCompactList}\small\item\em Adds two intergers. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{Task3_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
+\begin{DoxyCompactList}\small\item\em Main function @returnint Returns 0 if the program is successfully launched. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Demonstrates simpler functionsfor the assignment. 
+
+This program includes functions like printing a message and add two numbers, with comments for droxy to documment/read 
+
+\doxysubsection{Function Documentation}
+\Hypertarget{Task3_8c_a1c11ffa92d308b3a001b9968c5b80a4e}\label{Task3_8c_a1c11ffa92d308b3a001b9968c5b80a4e} 
+\index{Task3.c@{Task3.c}!AddNumbers@{AddNumbers}}
+\index{AddNumbers@{AddNumbers}!Task3.c@{Task3.c}}
+\doxysubsubsection{\texorpdfstring{AddNumbers()}{AddNumbers()}}
+{\footnotesize\ttfamily float Add\+Numbers (\begin{DoxyParamCaption}\item[{int}]{num1,  }\item[{int}]{num2 }\end{DoxyParamCaption})}
+
+
+
+Adds two intergers. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em num1} & is the first number \\
+\hline
+\mbox{\texttt{ in}}  & {\em num2} & is the second number \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+int The sum of both num1 and num2 
+\end{DoxyReturn}
+\texorpdfstring{$<$}{<} this stores the sum of the numbers\Hypertarget{Task3_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{Task3_8c_ae66f6b31b5ad750f1fe042a706a4e3d4} 
+\index{Task3.c@{Task3.c}!main@{main}}
+\index{main@{main}!Task3.c@{Task3.c}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Main function @returnint Returns 0 if the program is successfully launched. 
+
+this where the message is printed\Hypertarget{Task3_8c_a632d7e4cc3b6202492dad287c1acac95}\label{Task3_8c_a632d7e4cc3b6202492dad287c1acac95} 
+\index{Task3.c@{Task3.c}!PrintMessage@{PrintMessage}}
+\index{PrintMessage@{PrintMessage}!Task3.c@{Task3.c}}
+\doxysubsubsection{\texorpdfstring{PrintMessage()}{PrintMessage()}}
+{\footnotesize\ttfamily float Print\+Message (\begin{DoxyParamCaption}\item[{char}]{Message\mbox{[}10\mbox{]} }\end{DoxyParamCaption})}
+
+
+
+Prints a string message. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em Message} & is the text that will be printed on screen \\
+\hline
+\end{DoxyParams}
+\texorpdfstring{$<$}{<} Prints the message and adds a newline

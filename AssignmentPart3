@@ -1,0 +1,16 @@
+IT_USERS=$(getent group it | awk -F: '{print $4}' | tr ',' ' ')
+USERCOUNT=$(echo $IT_USERS | wc -w)
+echo "Found $USERCOUNT users in the IT group."
+for USER in $IT_USERS; do
+    echo "Allowing HTTPS access for user: $USER"
+    sudo iptables -A OUTPUT -p tcp --dport 443 -m owner --uid-owner "$(id -u "$USER")" -j ACCEPT
+done
+echo "Adding HTTPS exception for 192.168.2.3"
+sudo iptables -A OUTPUT -p tcp --dport 443 -d 192.168.2.3 -j ACCEPT
+echo "Blocking special access on port 8003 and 1979"
+sudo iptables -t filter -A OUTPUT -p tcp --dport 8003 -j DROP
+sudo iptables -t filter -A OUTPUT -p tcp --dport 1979 -j DROP
+echo "---------------------------------------"
+echo "HTTPS access granted to $USERCOUNT IT users."
+echo "iptables rules updated successfully."
+echo "---------------------------------------"
